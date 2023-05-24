@@ -44,4 +44,31 @@ public class WebpageOpener {
 
 
     }
+
+    public static void selenide(){
+        //By ID
+
+
+        //By name
+
+
+        //By class name
+
+
+        //By tag name
+
+
+        //By link text
+
+
+        //By partial link text
+
+
+        //By XPath
+
+
+        //By CSS selector
+
+
+    }
 }
